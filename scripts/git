@@ -1,0 +1,3 @@
+#installation git
+
+apt-get install git-all
